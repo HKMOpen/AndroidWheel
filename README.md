@@ -45,3 +45,8 @@ The wheel position and value chan be changed programmatically at runtime using t
 ## Screen Shots ##
 
 ![Wheel running on ICS](https://github.com/sephiroth74/AndroidWheel/raw/master/Screenshot_2012-01-28-13-33-04.png "Screenshot 1")
+
+
+### Thank you for your support and we will bring more amazing libraries to your productive works. We are accepting bitcoin by the address as below. Please scan the QR code to start
+![wallet](http://s32.postimg.org/sdd1oio1t/qrwallet.jpg)
+
